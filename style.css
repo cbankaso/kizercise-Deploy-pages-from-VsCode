@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+button {
+    background: white;
+    color: #ff5e62;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
